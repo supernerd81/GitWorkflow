@@ -26,4 +26,8 @@ public class Main {
     public void test2(String name) {
 
     }
+
+    public void test4(boolean isEnabled) {
+
+    }
 }
