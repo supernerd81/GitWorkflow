@@ -22,4 +22,8 @@ public class Main {
     public void test(int id) {
 
     }
+
+    public void test2(String name) {
+
+    }
 }
