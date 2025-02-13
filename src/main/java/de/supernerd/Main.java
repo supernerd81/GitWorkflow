@@ -18,4 +18,8 @@ public class Main {
             System.out.println(i);
         }
     }
+
+    public void test(int id) {
+
+    }
 }
